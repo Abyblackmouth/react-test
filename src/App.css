@@ -20,7 +20,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
@@ -36,3 +35,13 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  border: solid;
+  margin-top: 1rem;
+}
+
+.cover {
+  width:250px;
+}
+
